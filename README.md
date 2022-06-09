@@ -1,2 +1,2 @@
 # hello_k8s
-将应用部署在集群上面，实现南北向流量转发。
+go语言实现http-api的hello world，部署服务在docker上，并将项目部署在k8s上。
